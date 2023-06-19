@@ -9,19 +9,19 @@ cpu_mhz FLOAT8 NOT NULL,
 L2_cache    INT4 NOT NULL,
 "timestamp" TIMESTAMP NULL,
 total_mem   INT4 NOT NULL,
-CONSTANT host_info_pk PRIMARY KEY (id),
-CONSTANT host_info_un UNIQUE (hostname)
+CONSTRAINT host_info_pk PRIMARY KEY (id),
+CONSTRAINT host_info_un UNIQUE (hostname)
 );
 
-
-
-CREATE TABLE IF NOT EXISTS PUBLIC.host_usage(
-"timestamp" TIMESTAMP NOT NULL,
-host_id SERIAL NOT NULL,
-memory_free INT4 NOT NULL,
-cpu_idle    INT2 NOT NULL,
-cpu_kernel  INT2 NOT NULL,
-disk_io INT4 NOT NULL,
-disk_available INT4 NOT NULL,
-CONSTANT host_usage_host_info_fk FOREIGN KEY (host_id) REFERENCES (host_id)
+CREATE TABLE IF NOT EXISTS PUBLIC.host_usage
+  (
+     "timestamp"    TIMESTAMP NOT NULL,
+     host_id        SERIAL NOT NULL,
+     memory_free    INT4 NOT NULL,
+     cpu_idle       INT2 NOT NULL,
+     cpu_kernel     INT2 NOT NULL,
+     disk_io        INT4 NOT NULL,
+     disk_available INT4 NOT NULL,
+     CONSTRAINT host_usage_host_info_fk FOREIGN KEY (host_id) REFERENCES
+     host_info(id)
 );
