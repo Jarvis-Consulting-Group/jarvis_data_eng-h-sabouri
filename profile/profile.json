@@ -6,17 +6,32 @@
         "Dean's List (2015, 2016): Ut enim ad minim veniam",
         "GPA: 3.8/4.0"
       ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
+      "degree": "Graduate diploma, Computer Science",
+      "department": "Department of Computer Science and Software Engineering",
+      "duration": "2018-2021",
+      "school_name": "Concordia University"
     },
     {
-      "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "awards_achievements": [
+        "Scholarship",
+        "Dean's List (2015, 2016): Ut enim ad minim veniam",
+        "GPA: 3.8/4.0"
+      ],
+      "degree": "Bachelor of Fine Art",
+      "department": "Mel Hoppenheim School of Cinema",
+      "duration": "2011-2014",
+      "school_name": "Concordia University"
+    },
+    {
+      "awards_achievements": [
+        "Scholarship",
+        "Dean's List (2015, 2016): Ut enim ad minim veniam",
+        "GPA: 3.8/4.0"
+      ],
+      "degree": "Bachelor of Science",
+      "department": "School of Metallurgy and Materials Engineering",
+      "duration": "1993-1998",
+      "school_name": "Iran University of Science and Technology"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
@@ -89,9 +104,9 @@
     },
     {
       "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Tennis player",
+        "Soccer player",
+        "Cinephile"
       ],
       "title": "Activities/Hobbies"
     }
@@ -99,15 +114,21 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "description": "Developed multiple software application and worked on projects using Linux Bash, Docker and more. Agile/Scrum was used to collaborate with team.",
+      "duration": "2023-present",
+      "title": "QA Analyst"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "Morgan \u0026 Stanley",
+      "description": "Analysed requirements and performed functional and regression tests based on developers instruction. Executed TCM to deploy new changes and created test cases for different scenarios. Delivered work using Agile (Kanban) methodologies, ensuring that all work was on track and met necessary deadlines.",
+      "duration": "2022-2023",
+      "title": "QA Analyst"
+    },
+    {
+      "company": "Double Negative",
+      "description": "Combined visual elements from separated sources into single image by Nuke in Linux environment. Worked with software Nuke and Fusion, Conversion 2D image to 3D. Harvested Nuke script in order to extract the layer image elements",
+      "duration": "2017-2021",
+      "title": "Image Compositor"
     }
   ],
   "skills": {
@@ -119,14 +140,15 @@
       "Donec"
     ],
     "familiar": [
-      "Donec",
-      "fermentum",
-      "fermentum",
-      "fermentum",
-      "fermentum"
+      "Docker",
+      "Selenium",
+      "jira",
+      "REST APIs",
+      "C++"
     ],
     "proficient": [
       "Java",
+      "Python",
       "Linux/Bash",
       "RDBMS/SQL",
       "Agile/Scrum",
