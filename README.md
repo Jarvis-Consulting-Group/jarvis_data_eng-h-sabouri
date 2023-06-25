@@ -51,19 +51,19 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Education
 **Concordia University (2018-2021)**, Graduate diploma, Computer Science, Department of Computer Science and Software Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+- N/A
+- N/A
+- GPA: 3.03/4.5
 
 **Concordia University (2011-2014)**, Bachelor of Fine Art, Mel Hoppenheim School of Cinema
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+- N/A
+- N/A
+- GPA: 3.14/4.5
 
 **Iran University of Science and Technology (1993-1998)**, Bachelor of Science, School of Metallurgy and Materials Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+- N/A
+- N/A
+- GPA: 
 
 
 ## Miscellaneous

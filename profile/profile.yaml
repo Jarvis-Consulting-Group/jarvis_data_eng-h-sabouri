@@ -102,25 +102,25 @@ education:
     department: "Department of Computer Science and Software Engineering"
     # optional
     awards_achievements: 
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
+      - "N/A"
+      - "N/A"
+      - "GPA: 3.03/4.5"
   - school_name: "Concordia University"
     duration: "2011-2014"
     degree: "Bachelor of Fine Art"
     department: "Mel Hoppenheim School of Cinema"
     awards_achievements:
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
+      - "N/A"
+      - "N/A"
+      - "GPA: 3.14/4.5"
   - school_name: "Iran University of Science and Technology"
     duration: "1993-1998"
     degree: "Bachelor of Science"
     department: "School of Metallurgy and Materials Engineering"
     awards_achievements:
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
+      - "N/A"
+      - "N/A"
+      - "GPA: "
 
 #Optional section
 others:
