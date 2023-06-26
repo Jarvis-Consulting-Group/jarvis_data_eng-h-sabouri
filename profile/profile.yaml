@@ -1,7 +1,11 @@
 # Preferred name (Characters only)
 name: "Hossein Sabouri"
 # Your GitHub repo root URL
+<<<<<<< HEAD
 github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-h-sabouri
+=======
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+>>>>>>> feature/profile
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
@@ -13,11 +17,18 @@ skills:
   # At least 5 skills
   proficient:
     - Java
+<<<<<<< HEAD
+=======
+    - Python
+>>>>>>> feature/profile
     - Linux/Bash
     - RDBMS/SQL
     - Agile/Scrum
     - Git
+<<<<<<< HEAD
     - Python    
+=======
+>>>>>>> feature/profile
   # At least 5 skills
   competent:
     - Donec
@@ -29,9 +40,15 @@ skills:
   familiar:
     - Docker
     - Selenium
+<<<<<<< HEAD
     - C++
     - REST API's
     - Azur AI Fundamentals
+=======
+    - jira
+    - REST APIs
+    - C++
+>>>>>>> feature/profile
 
 # List of Jarvis projects
 jarvis_projects:
@@ -84,6 +101,7 @@ professional_experience:
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
+<<<<<<< HEAD
     description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
   - title: "QA Analyst"
     company: "Morgan & Stanley"
@@ -103,10 +121,34 @@ education:
     # optional
     awards_achievements: 
       - "GPA: B+"
+=======
+    description: "Developed multiple software application and worked on projects using Linux Bash, Docker and more. Agile/Scrum was used to collaborate with team."
+  - title: "QA Analyst"
+    company: "Morgan & Stanley"
+    duration: "2022-2023"
+    description: "Analysed requirements and performed functional and regression tests based on developers instruction. Executed TCM to deploy new changes and created test cases for different scenarios. Delivered work using Agile (Kanban) methodologies, ensuring that all work was on track and met necessary deadlines."
+  - title: "Image Compositor"
+    company: "Double Negative"
+    duration: "2017-2021"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Combined visual elements from separated sources into single image by Nuke in Linux environment. Worked with software Nuke and Fusion, Conversion 2D image to 3D. Harvested Nuke script in order to extract the layer image elements"
+#List of edcuation
+education: 
+  - school_name: "Concordia University"
+    duration: "2018-2021"
+    degree: "Graduate diploma, Computer Science"
+    department: "Department of Computer Science and Software Engineering"
+    # optional
+    awards_achievements: 
+      - "N/A"
+      - "N/A"
+      - "GPA: 3.03/4.5"
+>>>>>>> feature/profile
   - school_name: "Concordia University"
     duration: "2011-2014"
     degree: "Bachelor of Fine Art"
     department: "Mel Hoppenheim School of Cinema"
+<<<<<<< HEAD
     awards_achievements: 
       - "GPA: B+"
   - school_name: "Iran University of Science and Techology"
@@ -114,6 +156,20 @@ education:
     degree: "Bachelor of Science, Material Engineering"
     department: "School of Metallurgy and Materials Engineering"
    
+=======
+    awards_achievements:
+      - "N/A"
+      - "N/A"
+      - "GPA: 3.14/4.5"
+  - school_name: "Iran University of Science and Technology"
+    duration: "1993-1998"
+    degree: "Bachelor of Science"
+    department: "School of Metallurgy and Materials Engineering"
+    awards_achievements:
+      - "N/A"
+      - "N/A"
+      - "GPA: "
+>>>>>>> feature/profile
 
 #Optional section
 others:
@@ -128,4 +184,9 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Tennis player"
+<<<<<<< HEAD
       - "Cinephine"
+=======
+      - "Soccer player"
+      - "Cinephile"
+>>>>>>> feature/profile
