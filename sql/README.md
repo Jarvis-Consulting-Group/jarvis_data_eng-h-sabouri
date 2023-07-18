@@ -18,9 +18,7 @@ recommendedby integer NOT NULL,
 joindate timestamp,
 CONSTRAINT members_pk PRIMARY KEY (memid),
 CONSTRAINT fk_members_recommendedby FOREIGN KEY (recommendedby) REFERENCES 
-      cd.members(memid) ON DELETE
-SET
-NULL
+      cd.members(memid) ON DELETE SET NULL
 );
 CREATE TABLE IF NOT EXISTS cd.bookings(
 facid integer NOT NULL,
