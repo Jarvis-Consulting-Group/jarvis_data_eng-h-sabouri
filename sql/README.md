@@ -4,7 +4,7 @@ In the RDSMB and SQL project, the goal is to understand how to create, to manipu
 
 ### ERD
 
-![Entities  Relationship Diagram of tables cd.members, cd.facilities, and cd.bookings ](file:///home/centos/dev/jarvis_data_eng_h-sabouri/sql/assets/Tables.png)
+![Tables.png](Tables.png)
 
 ## SQL Quries
 
