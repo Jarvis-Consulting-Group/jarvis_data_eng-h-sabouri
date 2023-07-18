@@ -6,6 +6,7 @@ In the RDSMB and SQL project, the goal is to understand how to create, to manipu
 ## SQL Quries
 
 ###### Table Setup (DDL)
+
 CREATE TABLE IF NOT EXISTS cd.members(
 memid integer NOT NULL,
 surname varchar (200) NOT NULL,
@@ -42,7 +43,7 @@ CONSTRAINT facilities_pk PRIMARY KEY (facid)
 
 
 ###### Question 1: The club is adding a new facility - a spa. We need to add it into the facilities table. Use the following values:
-	facid: 9, Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800
+facid: 9, Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800
 
 INSERT INTO cd.facilities
 
@@ -50,9 +51,9 @@ VALUES (9, 'Spa', 20, 30, 100000, 800);
 
 
 ###### Questions 2: In the previous exercise, you learned how to add a facility. Now you're going to add multiple facilities in one command. Use the following values:
-	facid: 9, Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800
+facid: 9, Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800
 
-	facid: 10, Name: 'Squash Court 2', membercost: 3.5, guestcost: 17.5, initialoutlay: 5000, monthlymaintenance: 80
+facid: 10, Name: 'Squash Court 2', membercost: 3.5, guestcost: 17.5, initialoutlay: 5000, monthlymaintenance: 80
 
 INSERT INTO cd.facilities
 
