@@ -2,6 +2,8 @@
 
 In the RDSMB and SQL project, the goal is to understand how to create, to manipulate, and to use database in order to extract information.  To demonstrate and implementation of the project, the tools and technologies used to develop are git and git hub to set up git repository and version control, an instance of PSQL using Docker container to deploy the Postgres database, and finally PSQL queries to create tables and to perform SQL queries in order to extract information.
 
+### ERD
+![Entities  Relationship Diagram of tables cd.members, cd.facilities, and cd.bookings ](https://drive.google.com/drive/u/1/folders/1BsCONHok9tY5tRXOrYZII3_qkNqffxB6)
 
 ## SQL Quries
 
