@@ -6,7 +6,7 @@ In the RDSMB and SQL project, the goal is to understand how to create, to manipu
 ## SQL Quries
 
 ###### Table Setup (DDL)
-
+```
 CREATE TABLE IF NOT EXISTS cd.members(
 memid integer NOT NULL,
 surname varchar (200) NOT NULL,
@@ -39,7 +39,7 @@ initialoutday numeric NOT NULL,
 monthlumaintenance numeric NOT NULL,
 CONSTRAINT facilities_pk PRIMARY KEY (facid)
 );
-
+```
 
 
 ###### Question 1: The club is adding a new facility - a spa. We need to add it into the facilities table. Use the following values:
