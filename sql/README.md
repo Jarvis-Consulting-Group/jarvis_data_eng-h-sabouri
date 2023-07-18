@@ -79,7 +79,7 @@ membercost = (select membercost * 1.1 from cd.facilities where facid = 0),
 
 guestcost = (select guestcost * 1.1 from cd.facilities where facid = 0)
 
-where fac1.facid = 1;
+WHERE fac1.facid = 1;
 ```
 ###### Questions 5: As part of a clearout of our database, we want to delete all bookings from the cd.bookings table. How can we accomplish this?
 ```
