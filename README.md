@@ -1,6 +1,6 @@
 # Hossein Sabouri . Jarvis Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+Using Nuke as a main software when I was working for visual effect companies for a couple of years attracted me to the computer science. I honed my computer skills by graduating from Concordia University with a Graduate Diploma in Computer Science degree. Gained my quality assurance analyst expertise by joining to Morgan & Stanley company which gave me the opportunity to hand-on experience working closely with full-stack features teams to deliver complete components for boarder platform integration and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction.
 
 ## Skills
 
