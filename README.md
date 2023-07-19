@@ -15,7 +15,7 @@ Using Nuke as a main software when I was working for visual effect companies for
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Deployed a project to collect hardware specification and also monitor the cluster nodes resource usage in real time. The collected data will be stored in an RDBMS database for this we use posgres sql database. The data can help to manage reports for future resource planning purposes.
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
       
