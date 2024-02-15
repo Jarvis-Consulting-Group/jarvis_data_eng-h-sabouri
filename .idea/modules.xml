@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/jarvis_data_eng_h-sabouri.iml" filepath="$PROJECT_DIR$/.idea/jarvis_data_eng_h-sabouri.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/jarvis_data_eng-h-sabouri.iml" filepath="$PROJECT_DIR$/.idea/jarvis_data_eng-h-sabouri.iml" />
+>>>>>>> feature/monitoring_data
     </modules>
   </component>
 </project>

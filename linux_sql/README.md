@@ -12,7 +12,7 @@ collect data and send them to Postgreas sql
 
 
 ## implementation
-- psql instance , used to persist all the data
+- A psql instance is used to persist all the data.
 - host_info.sh collects the host hardware info and insert it into the database. 
 - host_usage.sh collects the current host usage (CPU and Memory) and then insert into the database.
 - crontab tool from LINUX  , which enable us to trigger host_usage.sh every minute 
