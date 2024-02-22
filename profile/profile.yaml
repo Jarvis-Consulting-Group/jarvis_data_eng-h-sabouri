@@ -10,7 +10,9 @@ summary: Using Nuke as a main software when I was working for visual effect comp
   Gained my quality assurance analyst expertise by joining to Morgan & Stanley company which gave me the opportunity to 
   hand-on experience working closely with full-stack features teams to deliver complete components for boarder platform integration 
   and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), 
-  and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction.
+  and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction. 
+  Later, I started working as Junior Web Developer on site National Bank of Canada. Through using Java, Springboot, git bucket, Vault and Scrum as a methodology management, 
+  I worked in a project which created and stored secrets keys in the Vault.
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -32,6 +34,7 @@ skills:
   # At least 5 skills
   familiar:
     - Docker
+    - Springboot
     - Selenium
     - jira
     - REST APIs
