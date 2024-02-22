@@ -1,6 +1,6 @@
 # Hossein Sabouri . Jarvis Consulting
 
-Using Nuke as a main software when I was working for visual effect companies for a couple of years attracted me to the computer science. I honed my computer skills by graduating from Concordia University with a Graduate Diploma in Computer Science degree. Gained my quality assurance analyst expertise by joining to Morgan & Stanley company which gave me the opportunity to hand-on experience working closely with full-stack features teams to deliver complete components for boarder platform integration and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction.
+Using Nuke as a main software when I was working for visual effect companies for a couple of years attracted me to the computer science. I honed my computer skills by graduating from Concordia University with a Graduate Diploma in Computer Science degree. Gained my quality assurance analyst expertise by joining to Morgan & Stanley company which gave me the opportunity to hand-on experience working closely with full-stack features teams to deliver complete components for boarder platform integration and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction. Later, I started working as Junior Web Developer on site National Bank of Canada. Through using Java, Springboot, git bucket, Vault and Scrum as a methodology management, I worked in a project which created and stored secrets keys in the Vault.
 
 ## Skills
 
@@ -8,7 +8,7 @@ Using Nuke as a main software when I was working for visual effect companies for
 
 **Competent:** Donec, fermentum, Donec, fermentum, Donec
 
-**Familiar:** Docker, Selenium, jira, REST APIs, C++
+**Familiar:** Docker, Springboot, Selenium, jira, REST APIs, C++
 
 ## Jarvis Projects
 
