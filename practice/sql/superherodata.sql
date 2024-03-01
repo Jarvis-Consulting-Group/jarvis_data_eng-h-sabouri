@@ -1,6 +1,7 @@
-\c superhero
+
 DROP DATABASE IF EXISTS superhero;
 CREATE DATABASE superhero;
+\c superhero
 
 DROP TABLE IF EXISTS alignment;
 CREATE TABLE alignment (
