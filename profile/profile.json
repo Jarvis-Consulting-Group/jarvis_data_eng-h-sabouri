@@ -2,8 +2,6 @@
   "education": [
     {
       "awards_achievements": [
-        "N/A",
-        "N/A",
         "GPA: 3.03/4.5"
       ],
       "degree": "Graduate diploma, Computer Science",
@@ -13,8 +11,6 @@
     },
     {
       "awards_achievements": [
-        "N/A",
-        "N/A",
         "GPA: 3.14/4.5"
       ],
       "degree": "Bachelor of Fine Art",
@@ -23,11 +19,7 @@
       "school_name": "Concordia University"
     },
     {
-      "awards_achievements": [
-        "N/A",
-        "N/A",
-        "GPA: "
-      ],
+      "awards_achievements": null,
       "degree": "Bachelor of Science",
       "department": "School of Metallurgy and Materials Engineering",
       "duration": "1993-1998",
@@ -92,29 +84,29 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "Microsoft Certified: Azure AI Fundamentals"
       ],
       "title": "Certificates"
     },
     {
       "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
         "Tennis player",
-        "Soccer player",
-        "Cinephile"
+        "Soccer player, as a soccer player, I relly enjoy how my contribution can help to the team success through my growing individual skill.",
+        "Cinephie"
       ],
       "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
     {
+      "company": "National Bank of Canada",
+      "description": "Working on a project to access and store secrets in the Vault, using tools; Springboot API Java, IntllijIDE. Working on Udemy courses including Terraform, AWS Practitioner, Spring Boot. Agile/Scrum environment used for delivering worked.",
+      "duration": "August 2023 - October 2023",
+      "title": "Junior web developer"
+    },
+    {
       "company": "Jarvis",
-      "description": "Developed multiple software application and worked on projects using Linux Bash, Docker and more. Agile/Scrum was used to collaborate with team.",
+      "description": "Developed multiple software application and worked on projects using Linux Bash, Docker and more. Agile/Scrum was used to collaborate with team. Git was utilized for version control on projects.",
       "duration": "2023-present",
       "title": "QA Analyst"
     },
@@ -126,24 +118,23 @@
     },
     {
       "company": "Double Negative",
-      "description": "Combined visual elements from separated sources into single image by Nuke in Linux environment. Worked with software Nuke and Fusion, Conversion 2D image to 3D. Harvested Nuke script in order to extract the layer image elements",
+      "description": "Combined visual elements from separated sources into single image by Nuke in Linux environment. Worked with software Nuke and Fusion, Conversion 2D image to 3D. Harvested Nuke script in order to extract the layer image elements.",
       "duration": "2017-2021",
       "title": "Image Compositor"
     }
   ],
   "skills": {
     "competent": [
-      "Donec",
-      "fermentum",
-      "Donec",
-      "fermentum",
-      "Donec"
+      "Jira",
+      "Docker",
+      "N/A",
+      "N/A",
+      "N/A"
     ],
     "familiar": [
-      "Docker",
       "Springboot",
+      "AWS",
       "Selenium",
-      "jira",
       "REST APIs",
       "C++"
     ],
@@ -152,9 +143,8 @@
       "Python",
       "Linux/Bash",
       "RDBMS/SQL",
-      "Agile/Scrum",
       "Git"
     ]
   },
-  "summary": "Using Nuke as a main software when I was working for visual effect companies for a couple of years attracted me to the computer science. I honed my computer skills by graduating from Concordia University with a Graduate Diploma in Computer Science degree. Gained my quality assurance analyst expertise by joining to Morgan \u0026 Stanley company which gave me the opportunity to hand-on experience working closely with full-stack features teams to deliver complete components for boarder platform integration and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction. Later, I started working as Junior Web Developer on site National Bank of Canada. Through using Java, Springboot, git bucket, Vault and Scrum as a methodology management, I worked in a project which created and stored secrets keys in the Vault."
+  "summary": "Using Nuke as a main software when I was working for visual effect companies for a couple of years attracted me to the computer science. I honed my computer skills by graduating from Concordia University with a Graduate Diploma in Computer Science degree. Gained my quality assurance analyst expertise by joining to Morgan \u0026 Stanley company which gave me the opportunity to hand-on experience working closely with full-stack features teams to deliver complete components for boarder platform integration and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction. Later, I started working as Junior Web Developer on site National Bank of Canada. Through using Java, Springboot, git bucket, Vault and Scrum as a methodology management, I worked in a project which created and stored secrets keys in the Vault and delivered work using Agile/ Scrum."
 }
