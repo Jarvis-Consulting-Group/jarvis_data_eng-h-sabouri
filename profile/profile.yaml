@@ -74,7 +74,7 @@ highlighted_projects:
     #URL is optional
     git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Create a Utilities package including some modules to use in compositing jobs in VFX and add those functionalities in Nuke software interface. Those modules include renderFinished, exposeInFinder, readWrite. By using Nuke Library, The Foundry Nuke, PyCharm.
+    description: Create a Utilities package including some modules to use in compositing jobs in VFX and add those functionalities in Nuke software interface. Those modules include renderFinished, exposeInFinder, readWrite. By using Python, Nuke Library, The Foundry Nuke, PyCharm.
   - name: "Develop a university database system"
     git_url:
     description: Utilizing Concordia University Engineering and Computer Science MYSQL DBMS server, to develop a university database system with several relation by using SQL, PHP

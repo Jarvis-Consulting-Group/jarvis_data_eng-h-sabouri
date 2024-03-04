@@ -29,7 +29,7 @@
   "github_repo_root_url": "https://github/Jarvis-Consulting-Group/jarvis_data_eng-h-sabouri",
   "highlighted_projects": [
     {
-      "description": "Create a Utilities package including some modules to use in compositing jobs in VFX and add those functionalities in Nuke software interface. Those modules include renderFinished, exposeInFinder, readWrite. By using Nuke Library, The Foundry Nuke, PyCharm.",
+      "description": "Create a Utilities package including some modules to use in compositing jobs in VFX and add those functionalities in Nuke software interface. Those modules include renderFinished, exposeInFinder, readWrite. By using Python, Nuke Library, The Foundry Nuke, PyCharm.",
       "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
       "name": "Create some nuke plugins using Nuke Package"
     },
