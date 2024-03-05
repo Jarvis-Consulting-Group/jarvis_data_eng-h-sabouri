@@ -2,11 +2,15 @@
 name: "Hossein Sabouri"
 # Your GitHub repo root URL
 <<<<<<< HEAD
+<<<<<<< HEAD
 github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-h-sabouri
 =======
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 >>>>>>> feature/profile
 
+=======
+github_repo_root_url: https://github/Jarvis-Consulting-Group/jarvis_data_eng-h-sabouri
+>>>>>>> feature/profile
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
 summary: Using Nuke as a main software when I was working for visual effect companies for a couple of years attracted me to the computer science. 
@@ -16,7 +20,7 @@ summary: Using Nuke as a main software when I was working for visual effect comp
   and leveraged various technologies and tools, including LINUX, SQL, GIT Bitbuckets, Object Oriented Programming (OOP), 
   and delivered work using Agile (Kanban) methodologies, analyzed requirement and performed functional and regression tests based on developer instruction. 
   Later, I started working as Junior Web Developer on site National Bank of Canada. Through using Java, Springboot, git bucket, Vault and Scrum as a methodology management, 
-  I worked in a project which created and stored secrets keys in the Vault.
+  I worked in a project which created and stored secrets keys in the Vault and delivered work using Agile/ Scrum.
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -29,7 +33,6 @@ skills:
 >>>>>>> feature/profile
     - Linux/Bash
     - RDBMS/SQL
-    - Agile/Scrum
     - Git
 <<<<<<< HEAD
     - Python    
@@ -37,22 +40,25 @@ skills:
 >>>>>>> feature/profile
   # At least 5 skills
   competent:
-    - Donec
-    - fermentum
-    - Donec
-    - fermentum
-    - Donec
+    - Jira
+    - Docker
+    - N/A
+    - N/A
+    - N/A
   # At least 5 skills
   familiar:
-    - Docker
     - Springboot
+    - AWS
     - Selenium
+<<<<<<< HEAD
 <<<<<<< HEAD
     - C++
     - REST API's
     - Azur AI Fundamentals
 =======
     - jira
+=======
+>>>>>>> feature/profile
     - REST APIs
     - C++
 >>>>>>> feature/profile
@@ -90,24 +96,30 @@ jarvis_projects:
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: "Create some nuke plugins using Nuke Package"
     #URL is optional
     git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
+    description: Create a Utilities package including some modules to use in compositing jobs in VFX and add those functionalities in Nuke software interface. Those modules include renderFinished, exposeInFinder, readWrite. By using Python, Nuke Library, The Foundry Nuke, PyCharm.
+  - name: "Develop a university database system"
     git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Utilizing Concordia University Engineering and Computer Science MYSQL DBMS server, to develop a university database system with several relation by using SQL, PHP
+
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
+  - title: "Junior web developer"
+    company: "National Bank of Canada"
+    duration: "August 2023 - October 2023"
+    description: Working on a project to access and store secrets in the Vault, using tools; Springboot API Java, IntllijIDE. Working on Udemy courses including Terraform, AWS Practitioner, Spring Boot. Agile/Scrum environment used for delivering worked.
   #Write your Jarvis role as a professional experience rather than training.
   - title: "QA Analyst"
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
+<<<<<<< HEAD
 <<<<<<< HEAD
     description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
   - title: "QA Analyst"
@@ -130,15 +142,18 @@ education:
       - "GPA: B+"
 =======
     description: "Developed multiple software application and worked on projects using Linux Bash, Docker and more. Agile/Scrum was used to collaborate with team."
+=======
+    description: Developed multiple software application and worked on projects using Linux Bash, Docker and more. Agile/Scrum was used to collaborate with team. Git was utilized for version control on projects.
+>>>>>>> feature/profile
   - title: "QA Analyst"
     company: "Morgan & Stanley"
     duration: "2022-2023"
-    description: "Analysed requirements and performed functional and regression tests based on developers instruction. Executed TCM to deploy new changes and created test cases for different scenarios. Delivered work using Agile (Kanban) methodologies, ensuring that all work was on track and met necessary deadlines."
+    description: Analysed requirements and performed functional and regression tests based on developers instruction. Executed TCM to deploy new changes and created test cases for different scenarios. Delivered work using Agile (Kanban) methodologies, ensuring that all work was on track and met necessary deadlines.
   - title: "Image Compositor"
     company: "Double Negative"
     duration: "2017-2021"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Combined visual elements from separated sources into single image by Nuke in Linux environment. Worked with software Nuke and Fusion, Conversion 2D image to 3D. Harvested Nuke script in order to extract the layer image elements"
+    description: Combined visual elements from separated sources into single image by Nuke in Linux environment. Worked with software Nuke and Fusion, Conversion 2D image to 3D. Harvested Nuke script in order to extract the layer image elements.
 #List of edcuation
 education: 
   - school_name: "Concordia University"
@@ -146,9 +161,7 @@ education:
     degree: "Graduate diploma, Computer Science"
     department: "Department of Computer Science and Software Engineering"
     # optional
-    awards_achievements: 
-      - "N/A"
-      - "N/A"
+    awards_achievements:
       - "GPA: 3.03/4.5"
 >>>>>>> feature/profile
   - school_name: "Concordia University"
@@ -165,35 +178,37 @@ education:
    
 =======
     awards_achievements:
-      - "N/A"
-      - "N/A"
       - "GPA: 3.14/4.5"
   - school_name: "Iran University of Science and Technology"
     duration: "1993-1998"
     degree: "Bachelor of Science"
     department: "School of Metallurgy and Materials Engineering"
     awards_achievements:
+<<<<<<< HEAD
       - "N/A"
       - "N/A"
       - "GPA: "
+>>>>>>> feature/profile
+=======
 >>>>>>> feature/profile
 
 #Optional section
 others:
     #category
   - title: "Certificates"
-    #list of items
     bullets:
-      - "Udacity Machine Learning (2019)"
-  - title: "Awards"
-    bullets:
-      - "Winner"
+      - "Microsoft Certified: Azure AI Fundamentals"
+
   - title: "Activities/Hobbies"
     bullets:
       - "Tennis player"
 <<<<<<< HEAD
+<<<<<<< HEAD
       - "Cinephine"
 =======
       - "Soccer player"
+=======
+      - "Soccer player, as a soccer player, I relly enjoy how my contribution can help to the team success through my growing individual skills."
+>>>>>>> feature/profile
       - "Cinephile"
 >>>>>>> feature/profile
